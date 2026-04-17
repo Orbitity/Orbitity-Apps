@@ -26,10 +26,3 @@ CryptVault analyzes:
 - Network safety checks (when enabled)
 
 > Note: CryptVault is not a full antivirus replacement. It is a lightweight analysis and scanning tool.
-
----
-
-## 📦 Installation
-
-### Option 1: Installer (Recommended)
-Run the provided:
